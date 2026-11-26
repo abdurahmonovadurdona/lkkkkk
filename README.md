@@ -1,5 +1,5 @@
 # smart school
-zamonaviylashtirilgan maktab
+##zamonaviylashtirilgan maktab
 **funksiyalari**
 1. elektron jadvalmi yaratish
 2. o'quvchilar baholarini ko'rish imkoniyatini yaratish
