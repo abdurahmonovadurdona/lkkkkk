@@ -1,0 +1,2 @@
+# lkkkkk
+bu_mening_eng_birinchi_loyha_ishim
