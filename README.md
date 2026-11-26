@@ -1,10 +1,10 @@
 # smart school
 # # zamonaviylashtirilgan maktab
-funksiyalari
--elektron jadvalmi yaratish
--o'quvchilar baholarini ko'rish imkoniyatini yaratish
--uy vazifalarni joylashtirish
-afzalliklari
--vaqtni tejash
--qulay foydalanish
--tezkor ma'lumot almashish
+**funksiyalari**
+1.elektron jadvalmi yaratish
+2.o'quvchilar baholarini ko'rish imkoniyatini yaratish
+3.uy vazifalarni joylashtirish
+**afzalliklari**
+1.vaqtni tejash
+2.qulay foydalanish
+3.tezkor ma'lumot almashish
